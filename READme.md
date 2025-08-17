@@ -25,14 +25,29 @@ AniTracker is a Vue-based anime tracking app powered by the AniList API.
 
 ## Getting Started
 
-1. Install dependencies:
+1. **Clone the repository:**
+   ```
+   git clone https://github.com/your-username/anitracker.git
+   cd anitracker/anitracker
+   ```
+
+2. **Install dependencies:**
    ```
    npm install
    ```
-2. Start the development server:
+
+3. **Start the development server:**
    ```
    npm run dev
    ```
+
+4. **Open your browser and visit:**
+   ```
+   http://localhost:5173
+   ```
+
+> Make sure you have [Node.js](https://nodejs.org/) installed.
+
 
 ## License
 
