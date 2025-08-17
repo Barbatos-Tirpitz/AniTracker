@@ -23,10 +23,6 @@ AniTracker is a Vue-based anime tracking app powered by the AniList API.
 
 ![Search Screenshot](./screenshots/search.png)
 
-
-
-> Place your screenshot images in a `screenshots` folder at the project root.
-
 ## Getting Started
 
 1. Install dependencies:
